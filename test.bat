@@ -1,0 +1,1 @@
+"C:\ProgramData\anaconda3\python.exe" "C:\Users\Public\Documents\sesac_lecture\scheduletest.py"
